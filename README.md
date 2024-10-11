@@ -82,6 +82,6 @@ EJEMPLO PARA INSERTAR IMAGEN
 
 ![artworks-ROC0NmvI8AtWF6cO-BQ3xMQ-t500x500](https://github.com/user-attachments/assets/cb9a6096-47c1-4a49-88f7-4ee1b478e510)
 
-<img src="https://github.com/user-attachments/assets/b8f72d3a-d5de-4fa3-8f8b-eaaa47483250"
+<img src="https://github.com/user-attachments/assets/b8f72d3a-d5de-4fa3-8f8b-eaaa47483250" width="200" >
 
 
